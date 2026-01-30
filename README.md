@@ -16,4 +16,4 @@ Estudante do 2º ano do ensino médio e em desenvolvimento contínuo na área de
 <br>
       
 ### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mariaeduardaurbano&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=mariaeduardaurbano&show_icons=true&theme=radical
