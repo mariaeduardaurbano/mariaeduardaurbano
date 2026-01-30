@@ -15,6 +15,14 @@ Estudante do 2º ano do ensino médio e em desenvolvimento contínuo na área de
 
 <br>
       
-### 📊 Estatísticas
+## 📊 Minhas Estatísticas no GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaeduardaurbano&show_icons=true&theme=transparent)
+<p align="center">
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mariaeduardaurbano&show_icons=true&theme=tokyonight" />
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariaeduardaurbano&layout=compact&theme=tokyonight" />
+
+  <img src="https://streak-stats.demolab.com?user=mariaeduardaurbano&theme=tokyonight" />
+
+</p>
