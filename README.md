@@ -16,4 +16,5 @@ Estudante do 2º ano do ensino médio e em desenvolvimento contínuo na área de
 <br>
       
 ### 📊 Estatísticas
-https://github-readme-stats.vercel.app/api?username=mariaeduardaurbano&show_icons=true&theme=radical
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaeduardaurbano&show_icons=true&theme=transparent)
