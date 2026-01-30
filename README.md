@@ -1,28 +1,19 @@
-# 👩🏻‍💻 Maria Eduarda Urbano
+<img width="100%" 
+src="https://capsule-render.vercel.app/api?type=waving&height=95&color=9333ea&section=header&reversal=true&fontColor=d946ef&fontAlign=48&fontSize=50&fontAlignY=40&animation=fadeIn"/> 
 
-**`Desenvolvimento de Sistemas - SENAI`**
+<div align="center">
 
-Estudante do 2º ano do ensino médio e em desenvolvimento contínuo na área de tecnologia. Tenho interesse em desenvolvimento fullstack, trabalhando com criação de interfaces, lógica de programação e integração com banco de dados.
+<img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaeduardaurbano&theme=dracula" /><br>
 
-<h1 align="center"> 🤖 Linguagens e Tecnologia</h1>
+<img width="290" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariaeduardaurbano&theme=dracula" />
 
-<div style="display: inline_block" align="center"><br>
-  <img alt="ling" src="https://skillicons.dev/icons?i=js,html,css,c,https://skillicons.dev">
+<img width="290" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariaeduardaurbano&theme=dracula" />
+
 </div>
-<br>
 
-<img src="https://raw.githubusercontent.com/mariaeduardaurbano/mariaeduardaurbano/output/snake.svg" alt="Snake animation" />
 
-<br>
-      
-## 📊 Minhas Estatísticas no GitHub
+<br><br>
 
-<p align="center">
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mariaeduardaurbano&show_icons=true&theme=tokyonight" />
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariaeduardaurbano&layout=compact&theme=tokyonight" />
-
-  <img src="https://streak-stats.demolab.com?user=mariaeduardaurbano&theme=tokyonight" />
-
-</p>
+<picture>
+  <img src="https://raw.githubusercontent.com/mariaeduardaurbano/mariaeduardaurbano/output/snake.svg" width="1000" />
+</picture>
